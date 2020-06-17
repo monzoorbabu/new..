@@ -1,0 +1,116 @@
+body{
+    width:100%;
+    height:900px;
+    background-color:#CAC8BC;
+}
+.first{
+       width:30px;
+       height:850px;
+       background-color:black;
+       float:left;
+       margin-top:40px;
+       margin-left:40px;
+       
+}
+.second{
+        width:200px;
+        height:850px;
+        background-color:antiquewhite;
+        float:left;
+        margin-top:40px;
+        
+        
+}
+.img1{
+    height:90px;
+    width:100px;
+    padding-left:40px;
+    padding-top:20px;
+}
+p{
+  padding-left:35px;      
+   
+    
+    
+}
+address{
+        padding-left:35px;
+}
+.phone{
+      padding-left:35px; 
+    
+    
+}
+.Email{
+       padding-left:35px; 
+}
+.link{
+        padding-left:35px; 
+}
+h2{
+      padding-left:35px;
+      text-decoration:underline;
+}
+small{
+         padding-left:35px;
+         text-decoration:underline;
+       
+}
+.third{
+       width:700px;
+       height:850px;
+       background-color:darkkhaki;
+       float:left;
+       margin-top:40px;
+}
+.name{
+     font-size:30px;
+    padding-top:10px;
+}
+.dev{
+    padding-left:17px;
+    text-decoration:none;
+    padding-left:32px;    
+    
+}
+.sum{
+    padding-left:32px; 
+    
+}
+.para{
+      text-align: justify;
+    
+}
+.skill{
+       padding-left:32px; 
+    
+}
+ul{
+   padding-left:50px;
+}
+.ex{
+     padding-left:32px;
+    padding-top:0px;
+}
+.edu{
+    padding-left:32px;
+}
+.cer{
+    padding-left:32px;
+}
+
+       
+
+
+        
+    
+    
+       
+    
+    
+
+    
+          
+
+
+     
